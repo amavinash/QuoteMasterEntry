@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    //Test comment for git
+    //Test comment deletion for git
     //_projectNameTextField.layer.cornerRadius=8.0f;
 //    _projectNameTextField.layer.masksToBounds=YES;
 //    _projectNameTextField.layer.borderColor=[[UIColor whiteColor]CGColor];
