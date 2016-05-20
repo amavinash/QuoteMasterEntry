@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //From Xcode
     //_projectNameTextField.layer.cornerRadius=8.0f;
 //    _projectNameTextField.layer.masksToBounds=YES;
 //    _projectNameTextField.layer.borderColor=[[UIColor whiteColor]CGColor];
