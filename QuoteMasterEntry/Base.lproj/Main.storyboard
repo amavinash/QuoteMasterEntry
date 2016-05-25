@@ -280,7 +280,7 @@
                                                     </label>
                                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Solitaire Supreme " textAlignment="right" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="vLf-cn-e7k">
                                                         <rect key="frame" x="170" y="60" width="380" height="22"/>
-                                                        <color key="backgroundColor" red="0.0" green="0.12941176469999999" blue="0.61960784310000006" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.058823529409999999" green="0.54117647059999996" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                         <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="18"/>
                                                         <textInputTraits key="textInputTraits"/>
@@ -314,7 +314,7 @@
                                                     </label>
                                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" horizontalHuggingPriority="750" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="Baner, Pune" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="8mL-fA-Nya">
                                                         <rect key="frame" x="170" y="102" width="145" height="22"/>
-                                                        <color key="backgroundColor" red="0.0" green="0.12941176469999999" blue="0.61960784310000006" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.058823529409999999" green="0.54117647059999996" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                         <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="18"/>
                                                         <textInputTraits key="textInputTraits"/>
@@ -352,7 +352,7 @@
                                                     </view>
                                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="1 BHK" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="l3e-5V-Bad">
                                                         <rect key="frame" x="475" y="102" width="75" height="22"/>
-                                                        <color key="backgroundColor" red="0.0" green="0.12941176469999999" blue="0.61960784310000006" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="0.058823529409999999" green="0.54117647059999996" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="75" id="6Ie-IO-U8b"/>
                                                         </constraints>
@@ -369,7 +369,7 @@
                                                         <state key="normal" image="DropDown"/>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" red="0.12549019610000001" green="0.2666666667" blue="0.79215686269999996" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="backgroundColor" red="0.058823529409999999" green="0.54117647059999996" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
                                                     <constraint firstItem="8mL-fA-Nya" firstAttribute="top" secondItem="7Ln-Jl-pnR" secondAttribute="bottom" constant="18" id="0QZ-v7-rVH"/>
                                                     <constraint firstItem="7Ln-Jl-pnR" firstAttribute="width" secondItem="vLf-cn-e7k" secondAttribute="width" id="2nv-Xg-KMk"/>
@@ -431,7 +431,7 @@
                                             </label>
                                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="tZR-qn-mQi">
                                                 <rect key="frame" x="0.0" y="220" width="600" height="270"/>
-                                                <color key="backgroundColor" red="0.12549019610000001" green="0.2666666667" blue="0.79215686269999996" alpha="1" colorSpace="calibratedRGB"/>
+                                                <color key="backgroundColor" red="0.058823529409999999" green="0.54117647059999996" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="270" id="he2-p7-3JO"/>
                                                 </constraints>
@@ -489,7 +489,7 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" red="0.12549019610000001" green="0.2666666667" blue="0.79215686269999996" alpha="1" colorSpace="calibratedRGB"/>
+                                        <color key="backgroundColor" red="0.058823529409999999" green="0.54117647059999996" blue="0.81960784310000001" alpha="1" colorSpace="calibratedRGB"/>
                                         <constraints>
                                             <constraint firstItem="tZR-qn-mQi" firstAttribute="top" secondItem="Cw9-CX-xnT" secondAttribute="bottom" constant="20" id="6vV-IM-jcu"/>
                                             <constraint firstItem="Cw9-CX-xnT" firstAttribute="centerX" secondItem="D0v-0A-IA3" secondAttribute="centerX" id="86R-Oi-P0L"/>
